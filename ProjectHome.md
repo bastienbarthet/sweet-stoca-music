@@ -1,0 +1,1 @@
+Try of elaborated stochastic music generator using Markov chains.
